@@ -27,7 +27,7 @@
 
         combo_enter_thumb {
             timeout-ms = <80>;
-            key-positions = <33 34>;
+            key-positions = <32 33>;
             bindings = <&kp RET>;
         };
     };
