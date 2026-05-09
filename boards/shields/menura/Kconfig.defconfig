@@ -13,13 +13,4 @@ if SHIELD_MENURA_LEFT || SHIELD_MENURA_RIGHT
 config ZMK_SPLIT
     default y
 
-config ZMK_SLEEP
-    default n
-
-config ZMK_SPLIT_BLE_PREF_LATENCY
-    default 0
-
-config ZMK_SPLIT_BLE_CENTRAL_PERIPHERALS
-    default 1
-
 endif
